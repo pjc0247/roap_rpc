@@ -1,9 +1,9 @@
 
 attributes
 ----
-* [rpc](rpc)
-* [from-rpc](from-rpc)
+* [rpc](rpc.md)
+* [from-rpc](from-rpc.md)
 
 methods
 ----
-* [serve](serve)
+* [serve](serve.md)
