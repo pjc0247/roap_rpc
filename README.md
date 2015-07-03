@@ -1,6 +1,9 @@
 roap_rpc
 ====
 
+http://ruby-doc.org/stdlib-2.2.2/libdoc/xmlrpc/rdoc/XMLRPC/Client.html<br>
+http://ruby-doc.org/stdlib-2.0.0/libdoc/xmlrpc/rdoc/XMLRPC/Server.html<br>
+
 Usage
 ----
 ```rb
