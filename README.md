@@ -3,8 +3,15 @@ roap_rpc
 
 [documentation](doc/)
 
-http://ruby-doc.org/stdlib-2.2.2/libdoc/xmlrpc/rdoc/XMLRPC/Client.html<br>
-http://ruby-doc.org/stdlib-2.0.0/libdoc/xmlrpc/rdoc/XMLRPC/Server.html<br>
+Outer Links
+----
+* [Ruby stdlib XMLRPC - Client side](http://ruby-doc.org/stdlib-2.2.2/libdoc/xmlrpc/rdoc/XMLRPC/Client.html)
+* [Ruby stdlib XMLRPC - Server side](http://ruby-doc.org/stdlib-2.0.0/libdoc/xmlrpc/rdoc/XMLRPC/Server.html)
+
+Extension Attributes
+----
+* rpc
+* from_rpc server
 
 Usage
 ----
