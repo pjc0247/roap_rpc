@@ -3,6 +3,12 @@ roap_rpc
 
 [documentation](doc/)
 
+Installation
+----
+```
+gem install roap_rpc
+```
+
 Outer Links
 ----
 * [Ruby stdlib XMLRPC - Client side](http://ruby-doc.org/stdlib-2.2.2/libdoc/xmlrpc/rdoc/XMLRPC/Client.html)
